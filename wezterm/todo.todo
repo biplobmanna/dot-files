@@ -1,0 +1,9 @@
+Setting up Wezterm:
+    ☐ split current config into individual lua files 
+    ✔ setup hotkeys @started(25-02-22 22:50) @done(25-02-23 11:20) @lasted(12h30m57s)
+    ✔ setup color schemes @started(25-02-24 19:19) @done(25-02-24 20:14) @lasted(55m57s)
+    ☐ collect color scheme from 'e' onwards
+    ✔ setup fonts @started(25-02-24 20:34) @done(25-02-24 23:04) @lasted(2h30m57s)
+    ☐ setup background images and themes 
+    ✔ setup various fonts @done(25-02-25 23:49)
+    ✔ setup zsh @done(25-02-25 23:49)
