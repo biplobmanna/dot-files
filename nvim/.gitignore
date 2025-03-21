@@ -1,0 +1,3 @@
+# files to be ingored from the nvim-lua config files
+.editorconfig
+*lock.json
