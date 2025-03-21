@@ -6,3 +6,4 @@ Import-Module $PSScriptRoot\colour_schemes.psm1
 . $PSScriptRoot\prompt.ps1
 . $PSScriptRoot\commands.ps1
 . $PSScriptRoot\aliases.ps1
+. $PSScriptRoot\psfzf.ps1

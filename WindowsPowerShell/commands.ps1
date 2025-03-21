@@ -32,13 +32,13 @@ function unzip ($file) {
     Expand-Archive -Path $fullFile -DestinationPath $pwd
 }
 
-function grep($regex, $dir) {
-    if ( $dir ) {
-        Get-ChildItem $dir | select-string $regex
-        return
-    }
-    $input | select-string $regex
-}
+#function grep($regex, $dir) {
+#    if ( $dir ) {
+#        Get-ChildItem $dir | select-string $regex
+#        return
+#    }
+#    $input | select-string $regex
+#}
 
 function df {
     Get-Volume

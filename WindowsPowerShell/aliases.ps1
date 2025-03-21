@@ -23,3 +23,9 @@ function gs { git status }
 function ga { git add }
 function gp { git pull }
 function gc { git commit }
+
+# better find
+Set-Alias -Name find -Value fd
+
+# grep mapped to ripgrep
+Set-Alias -Name grep -Value rg
