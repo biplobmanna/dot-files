@@ -29,3 +29,7 @@ Set-Alias -Name find -Value fd
 
 # grep mapped to ripgrep
 Set-Alias -Name grep -Value rg
+
+# some commonly used folder locations
+function c { cd "C:\Users\biplo\Code" }
+function z { cd "C:\Users\biplo\Code\z" }
